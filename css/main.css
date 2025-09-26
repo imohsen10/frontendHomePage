@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "vazir";
+    src: url("../font/other_vazir_font/Vazir-Light.ttf");
+}
+
+body {
+    font-family: "vazir";
+}
+
+.icon {
+    color: #0d6efd;
+    background: #ebeafb;
+    display: inline-flex;
+    border-radius: 15px;
+    padding: 15px;
+}
+.card-primary{
+    background-color: #051b3b;
+
+}
