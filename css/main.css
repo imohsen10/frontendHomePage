@@ -3,6 +3,12 @@
     src: url("../font/other_vazir_font/Vazir-Light.ttf");
 }
 
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
 body {
     font-family: "vazir";
 }
